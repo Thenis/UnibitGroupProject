@@ -1,0 +1,16 @@
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\Repository.dll.config
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\Repository.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\Repository.pdb
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\DTOModels.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\EntityFramework.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\Models.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\SolarSystemContext.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\DTOModels.pdb
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\Models.pdb
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\SolarSystemContext.pdb
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\EntityFramework.xml
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\obj\Debug\Repository.dll
+c:\users\dstoi\documents\visual studio 2015\Projects\UnibitGroupProject\Repository\obj\Debug\Repository.pdb
